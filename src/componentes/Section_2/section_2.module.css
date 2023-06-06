@@ -15,7 +15,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 25px 0 25px 0;
+  padding: 25px 10px;
 }
 .bloqueIzq figure img {
   width: 80px;
@@ -68,7 +68,7 @@
     margin-top: 55px;
     display: flex;
     gap: 60px;
-    background: url(https://quickgold.es/degradadovigo.png) no-repeat;
+    background: url(https://quickgold.es/degradadotenerife.png) no-repeat;
     background-blend-mode: multiply;
     background-position: left;
     background-size: 50%;

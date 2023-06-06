@@ -8,22 +8,24 @@ const SectionCuatro = () => {
       <div className={styles.bloqueIzq}>
         <h2>
           Cambia moneda extranjera en {""}
-          <span className={styles.linea}>Vigo</span>
+          <span className={styles.linea}>Tenerife</span>
         </h2>
         <p>
-          ¿Estás en Vigo y necesitas cambiar divisa? En nuestra oficina de
-          cambio obtendrás el mejor tipo de cambio de toda la ciudad. Consigue
-          euros en efectivo para tus compras o transacciones internacionales.
-          Recuerda que realizamos mejoras en el tipo de cambio de divisa por
-          cantidad, pregúntanos y estaremos encantados de atenderte sin
-          compromiso.
+          Tanto si vives en Santa Cruz como si estás visitando la Plaza de
+          España, tienes la suerte de tener una casa de cambio Quickgold para
+          que cambiar divisa sea un proceso sencillo y rápido. Recuerda que en
+          nuestra casa de cambio en Santa Cruz realizamos mejoras en el tipo de
+          cambio por cantidad. Indícanos tus necesidades y, sin compromiso, te
+          asesoraremos y te ofreceremos el mejor tipo de cambio de la ciudad.
+          Cambia moneda extranjera en Santa Cruz de Tenerife de manera fácil y
+          rápida.
         </p>
       </div>
       <div className={styles.bloqueDer}>
         <img
           loading="lazy"
-          src="/casa-cambio-vigo.webp"
-          alt="Cambiar Dólares a Euros vigo"
+          src="/casa-cambio-tenerife.webp"
+          alt="Cambiar Dólares a Euros santacruzdetenerife"
           className={styles.Image}
           width={480}
           height={390}
