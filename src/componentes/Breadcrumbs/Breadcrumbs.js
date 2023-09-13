@@ -12,8 +12,8 @@ const Breadcrumbs = () => {
         <KeyboardArrowRightIcon />
       </div>
       <a
-        href="https://quickgold.es/casa-cambio-santacruzdetenerife/"
-        title="Ir a casa cambio santacruzdetenerife"
+        href="https://quickgold.es/casa-cambio-tenerife/"
+        title="Ir a casa cambio santa cruz de tenerife"
       >
         Casa Cambio Santa Cruz de Tenerife
       </a>
